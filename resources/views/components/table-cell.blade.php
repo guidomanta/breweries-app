@@ -1,0 +1,1 @@
+<td {{ $attributes->merge(['class' => 'py-2 px-4 text-sm text-center text-gray-500']) }}>{{ $slot }}</td>
